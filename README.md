@@ -1,4 +1,5 @@
-##Function replace Parameter ${test}
+## Function replace Parameter 
+###### Example : "Hello ${test}" to "Hello Joy"
 
 ```
 	public static String replacePattern(String str, ArrayList param) throws Exception{
